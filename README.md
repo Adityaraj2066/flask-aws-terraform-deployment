@@ -14,6 +14,6 @@
 - aws account with aws-cli installed and configured
 
 ### 2. How-to
-- work-in-progress...
+- work-in-progress.
 
 
